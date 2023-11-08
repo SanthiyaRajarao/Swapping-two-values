@@ -18,8 +18,21 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
+#Program to swap two values.
+#Developed by: SANTHIYA R
+#RegisterNumber:23005263
+ball1=int(input())
+ball2=int(input())
+t=ball1
+ball1=ball2
+ball2=t
+print("Swapped values are:",ball1,ball2)
+```
 
+## OUTPUT:
 
+![output](/Swapoutput.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
